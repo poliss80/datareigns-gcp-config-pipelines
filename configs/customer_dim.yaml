@@ -1,0 +1,28 @@
+# Pipeline 3: customer dimension, MERGE (upsert) on customer id.
+# First load:  python engine.py configs/customer_dim.yaml
+# Then apply updates: python engine.py configs/customer_dim.yaml --source data/customers_update.csv
+pipeline: customer_dim
+description: Customer dimension merge on customer id
+
+source:
+  path: data/customers.csv
+  format: csv
+
+schema:
+  - {name: customer_id, type: int, required: true}
+  - {name: name, type: str, required: true}
+  - {name: email, type: str, required: true}
+  - {name: region, type: str, required: true}
+  - {name: signup_date, type: date, required: true}
+  - {name: tier, type: str, required: true}
+
+validations:
+  - {column: tier, rule: in, value: [basic, standard, premium]}
+  - {column: region, rule: in, value: [North, South, East, West]}
+
+transforms: []
+
+destination:
+  table: customer_dim
+  mode: merge
+  merge_keys: [customer_id]

@@ -1,0 +1,31 @@
+# Pipeline 2: JSON clickstream events with schema validation.
+# Bad rows go to the quarantine table instead of being dropped silently.
+# Run: python engine.py configs/clickstream_json.yaml
+pipeline: clickstream_events
+description: JSON clickstream events with schema validation and quarantine
+
+source:
+  path: data/clickstream_2026_10_08.json
+  format: json
+
+schema:
+  - {name: event_id, type: str, required: true}
+  - {name: event_time, type: str, required: true}
+  - {name: user_id, type: int, required: true}
+  - {name: event_type, type: str, required: true}
+  - {name: page, type: str, required: false}
+  - {name: session_id, type: str, required: false}
+
+validations:
+  - {column: event_type, rule: in, value: [view, click, purchase]}
+
+transforms:
+  - {op: derive, column: event_date, formula: "substr(event_time, 0, 10)"}
+
+destination:
+  table: clickstream_events
+  mode: append
+  partition_by: event_date
+
+quarantine:
+  table: clickstream_quarantine

@@ -1,0 +1,153 @@
+orderId,customer_id,sale_date,product,category,region,quantity,unitPrice
+10151,93,2026-10-08,Lumen Desk Lamp,Home,South,3,59.00
+10152,181,2026-10-08,Nimbus Headphones,Electronics,East,2,149.00
+10153,125,2026-10-08,Atlas Denim Jacket,Apparel,West,1,119.00
+10154,1,2026-10-08,Trailpack 40L,Outdoors,West,4,79.00
+10155,78,2026-10-08,Velocity Runners,Apparel,South,4,129.00
+10156,97,2026-10-08,Cloudrest Pillow,Home,East,1,49.00
+10157,1,2026-10-08,Cloudrest Pillow,Home,East,3,49.00
+10158,31,2026-10-08,Velocity Runners,Apparel,South,1,129.00
+10159,65,2026-10-08,Lumen Desk Lamp,Home,East,1,59.00
+10160,100,2026-10-08,Velocity Runners,Apparel,North,3,129.00
+10161,194,2026-10-08,Velocity Runners,Apparel,East,1,129.00
+10162,27,2026-10-08,Lumen Desk Lamp,Home,North,3,59.00
+10163,64,2026-10-08,Trailpack 40L,Outdoors,East,4,79.00
+10164,49,2026-10-08,Cloudrest Pillow,Home,East,4,49.00
+10165,195,2026-10-08,Laptop Pro 14,Electronics,West,2,899.00
+10166,13,2026-10-08,Nimbus Headphones,Electronics,West,4,149.00
+10167,165,2026-10-08,Trailpack 40L,Outdoors,East,4,79.00
+10168,141,2026-10-08,Laptop Pro 14,Electronics,South,2,899.00
+10169,107,2026-10-08,Atlas Denim Jacket,Apparel,East,3,119.00
+10170,66,2026-10-08,Lumen Desk Lamp,Home,East,4,59.00
+10171,78,2026-10-08,Everpour Bottle,Outdoors,West,4,29.00
+10172,43,2026-10-08,Nimbus Headphones,Electronics,South,1,149.00
+10173,129,2026-10-08,Everpour Bottle,Outdoors,West,2,29.00
+10174,86,2026-10-08,Atlas Denim Jacket,Apparel,West,4,119.00
+10175,141,2026-10-08,Trailpack 40L,Outdoors,South,2,79.00
+10176,45,2026-10-08,Nimbus Headphones,Electronics,East,1,149.00
+10177,62,2026-10-08,Cloudrest Pillow,Home,East,3,49.00
+10178,6,2026-10-08,Everpour Bottle,Outdoors,West,4,29.00
+10179,191,2026-10-08,Velocity Runners,Apparel,South,4,129.00
+10180,87,2026-10-08,Lumen Desk Lamp,Home,North,4,59.00
+10181,148,2026-10-08,Lumen Desk Lamp,Home,East,2,59.00
+10182,24,2026-10-08,Everpour Bottle,Outdoors,East,2,29.00
+10183,103,2026-10-08,Velocity Runners,Apparel,West,4,129.00
+10184,6,2026-10-08,Lumen Desk Lamp,Home,South,1,59.00
+10185,182,2026-10-08,Velocity Runners,Apparel,West,4,129.00
+10186,19,2026-10-08,Laptop Pro 14,Electronics,West,4,899.00
+10187,64,2026-10-08,Atlas Denim Jacket,Apparel,North,2,119.00
+10188,39,2026-10-08,Trailpack 40L,Outdoors,North,4,79.00
+10189,142,2026-10-08,Nimbus Headphones,Electronics,North,1,149.00
+10190,60,2026-10-08,Trailpack 40L,Outdoors,North,3,79.00
+10191,161,2026-10-08,Trailpack 40L,Outdoors,East,4,79.00
+10192,26,2026-10-08,Nimbus Headphones,Electronics,North,3,149.00
+10193,100,2026-10-08,Everpour Bottle,Outdoors,East,2,29.00
+10194,3,2026-10-08,Laptop Pro 14,Electronics,East,4,899.00
+10195,81,2026-10-08,Lumen Desk Lamp,Home,South,4,59.00
+10196,141,2026-10-08,Everpour Bottle,Outdoors,South,1,29.00
+10197,181,2026-10-08,Velocity Runners,Apparel,East,1,129.00
+10198,50,2026-10-08,Laptop Pro 14,Electronics,West,4,899.00
+10199,66,2026-10-08,Nimbus Headphones,Electronics,South,4,149.00
+10200,59,2026-10-08,Cloudrest Pillow,Home,West,1,49.00
+10201,184,2026-10-08,Cloudrest Pillow,Home,West,3,49.00
+10202,51,2026-10-08,Velocity Runners,Apparel,North,3,129.00
+10203,53,2026-10-08,Nimbus Headphones,Electronics,West,2,149.00
+10204,197,2026-10-08,Lumen Desk Lamp,Home,South,2,59.00
+10205,57,2026-10-08,Atlas Denim Jacket,Apparel,East,3,119.00
+10206,160,2026-10-08,Nimbus Headphones,Electronics,West,2,149.00
+10207,125,2026-10-08,Everpour Bottle,Outdoors,West,1,29.00
+10208,101,2026-10-08,Trailpack 40L,Outdoors,North,2,79.00
+10209,153,2026-10-08,Laptop Pro 14,Electronics,South,4,899.00
+10210,182,2026-10-08,Laptop Pro 14,Electronics,North,2,899.00
+10211,116,2026-10-08,Velocity Runners,Apparel,East,1,129.00
+10212,43,2026-10-08,Nimbus Headphones,Electronics,East,2,149.00
+10213,168,2026-10-08,Trailpack 40L,Outdoors,West,1,79.00
+10214,171,2026-10-08,Lumen Desk Lamp,Home,West,3,59.00
+10215,114,2026-10-08,Cloudrest Pillow,Home,South,1,49.00
+10216,21,2026-10-08,Laptop Pro 14,Electronics,East,1,899.00
+10217,108,2026-10-08,Cloudrest Pillow,Home,North,2,49.00
+10218,92,2026-10-08,Velocity Runners,Apparel,East,4,129.00
+10219,13,2026-10-08,Nimbus Headphones,Electronics,West,2,149.00
+10220,139,2026-10-08,Cloudrest Pillow,Home,West,2,49.00
+10221,94,2026-10-08,Cloudrest Pillow,Home,West,1,49.00
+10222,64,2026-10-08,Velocity Runners,Apparel,West,1,129.00
+10223,9,2026-10-08,Velocity Runners,Apparel,West,1,129.00
+10224,66,2026-10-08,Laptop Pro 14,Electronics,South,1,899.00
+10225,93,2026-10-08,Cloudrest Pillow,Home,East,3,49.00
+10226,68,2026-10-08,Laptop Pro 14,Electronics,East,3,899.00
+10227,1,2026-10-08,Lumen Desk Lamp,Home,North,1,59.00
+10228,28,2026-10-08,Everpour Bottle,Outdoors,West,4,29.00
+10229,65,2026-10-08,Velocity Runners,Apparel,West,4,129.00
+10230,128,2026-10-08,Trailpack 40L,Outdoors,South,1,79.00
+10231,178,2026-10-08,Lumen Desk Lamp,Home,South,2,59.00
+10232,82,2026-10-08,Cloudrest Pillow,Home,West,3,49.00
+10233,132,2026-10-08,Nimbus Headphones,Electronics,South,4,149.00
+10234,64,2026-10-08,Trailpack 40L,Outdoors,West,1,79.00
+10235,124,2026-10-08,Laptop Pro 14,Electronics,East,2,899.00
+10236,27,2026-10-08,Velocity Runners,Apparel,North,3,129.00
+10237,54,2026-10-08,Nimbus Headphones,Electronics,North,4,149.00
+10238,182,2026-10-08,Atlas Denim Jacket,Apparel,West,2,119.00
+10239,35,2026-10-08,Everpour Bottle,Outdoors,West,4,29.00
+10240,192,2026-10-08,Everpour Bottle,Outdoors,North,3,29.00
+10241,72,2026-10-08,Lumen Desk Lamp,Home,East,3,59.00
+10242,189,2026-10-08,Lumen Desk Lamp,Home,East,2,59.00
+10243,64,2026-10-08,Atlas Denim Jacket,Apparel,South,2,119.00
+10244,40,2026-10-08,Everpour Bottle,Outdoors,East,2,29.00
+10245,17,2026-10-08,Cloudrest Pillow,Home,West,3,49.00
+10246,130,2026-10-08,Everpour Bottle,Outdoors,South,1,29.00
+10247,10,2026-10-08,Atlas Denim Jacket,Apparel,North,1,119.00
+10248,60,2026-10-08,Atlas Denim Jacket,Apparel,West,3,119.00
+10249,76,2026-10-08,Laptop Pro 14,Electronics,South,1,899.00
+10250,49,2026-10-08,Laptop Pro 14,Electronics,South,1,899.00
+10251,132,2026-10-08,Cloudrest Pillow,Home,South,4,49.00
+10252,199,2026-10-08,Lumen Desk Lamp,Home,North,1,59.00
+10253,56,2026-10-08,Cloudrest Pillow,Home,North,3,49.00
+10254,37,2026-10-08,Cloudrest Pillow,Home,North,2,49.00
+10255,10,2026-10-08,Lumen Desk Lamp,Home,South,1,59.00
+10256,105,2026-10-08,Cloudrest Pillow,Home,East,2,49.00
+10257,20,2026-10-08,Lumen Desk Lamp,Home,South,1,59.00
+10258,141,2026-10-08,Atlas Denim Jacket,Apparel,West,1,119.00
+10259,26,2026-10-08,Velocity Runners,Apparel,West,2,129.00
+10260,168,2026-10-08,Nimbus Headphones,Electronics,South,4,149.00
+10261,105,2026-10-08,Lumen Desk Lamp,Home,East,3,59.00
+10262,14,2026-10-08,Velocity Runners,Apparel,East,3,129.00
+10263,107,2026-10-08,Velocity Runners,Apparel,North,3,129.00
+10264,101,2026-10-08,Everpour Bottle,Outdoors,West,2,29.00
+10265,112,2026-10-08,Laptop Pro 14,Electronics,South,4,899.00
+10266,24,2026-10-08,Nimbus Headphones,Electronics,West,3,149.00
+10267,198,2026-10-08,Atlas Denim Jacket,Apparel,South,2,119.00
+10268,14,2026-10-08,Laptop Pro 14,Electronics,South,4,899.00
+10269,147,2026-10-08,Nimbus Headphones,Electronics,East,2,149.00
+10270,90,2026-10-08,Trailpack 40L,Outdoors,East,2,79.00
+10271,18,2026-10-08,Trailpack 40L,Outdoors,North,4,79.00
+10272,193,2026-10-08,Atlas Denim Jacket,Apparel,South,3,119.00
+10273,12,2026-10-08,Trailpack 40L,Outdoors,West,3,79.00
+10274,156,2026-10-08,Laptop Pro 14,Electronics,West,1,899.00
+10275,164,2026-10-08,Trailpack 40L,Outdoors,South,4,79.00
+10276,122,2026-10-08,Everpour Bottle,Outdoors,South,2,29.00
+10277,103,2026-10-08,Laptop Pro 14,Electronics,South,4,899.00
+10278,32,2026-10-08,Cloudrest Pillow,Home,South,2,49.00
+10279,11,2026-10-08,Everpour Bottle,Outdoors,North,3,29.00
+10280,100,2026-10-08,Nimbus Headphones,Electronics,West,3,149.00
+10281,79,2026-10-08,Velocity Runners,Apparel,South,4,129.00
+10282,169,2026-10-08,Velocity Runners,Apparel,East,4,129.00
+10283,46,2026-10-08,Atlas Denim Jacket,Apparel,North,1,119.00
+10284,120,2026-10-08,Atlas Denim Jacket,Apparel,South,4,119.00
+10285,46,2026-10-08,Atlas Denim Jacket,Apparel,West,4,119.00
+10286,18,2026-10-08,Nimbus Headphones,Electronics,South,3,149.00
+10287,94,2026-10-08,Velocity Runners,Apparel,North,4,129.00
+10288,11,2026-10-08,Laptop Pro 14,Electronics,South,1,899.00
+10289,200,2026-10-08,Cloudrest Pillow,Home,North,1,49.00
+10290,168,2026-10-08,Velocity Runners,Apparel,South,1,129.00
+10291,158,2026-10-08,Nimbus Headphones,Electronics,North,2,149.00
+10292,126,2026-10-08,Trailpack 40L,Outdoors,East,2,79.00
+10293,17,2026-10-08,Everpour Bottle,Outdoors,East,3,29.00
+10294,83,2026-10-08,Trailpack 40L,Outdoors,East,4,79.00
+10295,66,2026-10-08,Trailpack 40L,Outdoors,West,2,79.00
+10003,158,2026-10-08,Lumen Desk Lamp,Home,South,3,59.00
+10027,10,2026-10-08,Cloudrest Pillow,Home,South,2,49.00
+10059,42,2026-10-08,Velocity Runners,Apparel,East,3,129.00
+10088,44,2026-10-08,Velocity Runners,Apparel,East,1,129.00
+10112,163,2026-10-08,Laptop Pro 14,Electronics,East,4,899.00
+10301,55,2026-10-08,Lumen Desk Lamp,Home,North,0,59.00
+10302,71,2026-10-08,Trailpack 40L,Outdoors,South,0,79.00

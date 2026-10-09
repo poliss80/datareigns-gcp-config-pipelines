@@ -1,0 +1,2402 @@
+[
+ {
+  "event_id": null,
+  "event_time": "2026-10-08T19:02:33",
+  "user_id": 149,
+  "event_type": "purchase",
+  "page": "/home",
+  "session_id": "sess-5129"
+ },
+ {
+  "event_id": null,
+  "event_time": "2026-10-08T18:22:40",
+  "user_id": 101,
+  "event_type": "purchase",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-5337"
+ },
+ {
+  "event_id": null,
+  "event_time": "2026-10-08T12:54:23",
+  "user_id": 148,
+  "event_type": "view",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-6420"
+ },
+ {
+  "event_id": null,
+  "event_time": "2026-10-08T02:51:28",
+  "user_id": 59,
+  "event_type": "view",
+  "page": "/checkout",
+  "session_id": "sess-1791"
+ },
+ {
+  "event_id": null,
+  "event_time": "2026-10-08T10:11:52",
+  "user_id": 133,
+  "event_type": "click",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-6122"
+ },
+ {
+  "event_id": null,
+  "event_time": "2026-10-08T00:08:47",
+  "user_id": 9,
+  "event_type": "view",
+  "page": "/products",
+  "session_id": "sess-5767"
+ },
+ {
+  "event_id": null,
+  "event_time": "2026-10-08T21:06:40",
+  "user_id": 111,
+  "event_type": "click",
+  "page": "/checkout",
+  "session_id": "sess-6965"
+ },
+ {
+  "event_id": null,
+  "event_time": "2026-10-08T01:42:08",
+  "user_id": 126,
+  "event_type": "view",
+  "page": "/checkout",
+  "session_id": "sess-1746"
+ },
+ {
+  "event_id": null,
+  "event_time": "2026-10-08T00:50:03",
+  "user_id": 1,
+  "event_type": "purchase",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-5976"
+ },
+ {
+  "event_id": null,
+  "event_time": "2026-10-08T03:42:33",
+  "user_id": 92,
+  "event_type": "purchase",
+  "page": "/products",
+  "session_id": "sess-7770"
+ },
+ {
+  "event_id": "evt-00011",
+  "event_time": "2026-10-08T20:00:19",
+  "user_id": 151,
+  "event_type": "hover",
+  "page": "/products",
+  "session_id": "sess-7000"
+ },
+ {
+  "event_id": "evt-00012",
+  "event_time": "2026-10-08T21:22:53",
+  "user_id": 122,
+  "event_type": "hover",
+  "page": "/products",
+  "session_id": "sess-1231"
+ },
+ {
+  "event_id": "evt-00013",
+  "event_time": "2026-10-08T08:23:45",
+  "user_id": 39,
+  "event_type": "hover",
+  "page": "/home",
+  "session_id": "sess-2043"
+ },
+ {
+  "event_id": "evt-00014",
+  "event_time": "2026-10-08T21:52:09",
+  "user_id": 171,
+  "event_type": "hover",
+  "page": "/cart",
+  "session_id": "sess-5329"
+ },
+ {
+  "event_id": "evt-00015",
+  "event_time": "2026-10-08T00:28:03",
+  "user_id": 166,
+  "event_type": "hover",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-8270"
+ },
+ {
+  "event_id": "evt-00016",
+  "event_time": "2026-10-08T20:37:59",
+  "user_id": 133,
+  "event_type": "hover",
+  "page": "/cart",
+  "session_id": "sess-5071"
+ },
+ {
+  "event_id": "evt-00017",
+  "event_time": "2026-10-08T05:43:57",
+  "user_id": 1,
+  "event_type": "hover",
+  "page": "/home",
+  "session_id": "sess-9708"
+ },
+ {
+  "event_id": "evt-00018",
+  "event_time": "2026-10-08T00:56:25",
+  "user_id": 48,
+  "event_type": "hover",
+  "page": "/products",
+  "session_id": "sess-1956"
+ },
+ {
+  "event_id": "evt-00019",
+  "event_time": "2026-10-08T03:39:00",
+  "user_id": 157,
+  "event_type": "hover",
+  "page": "/deals",
+  "session_id": "sess-4231"
+ },
+ {
+  "event_id": "evt-00020",
+  "event_time": "2026-10-08T04:56:26",
+  "user_id": 52,
+  "event_type": "hover",
+  "page": "/checkout",
+  "session_id": "sess-9305"
+ },
+ {
+  "event_id": "evt-00021",
+  "event_time": "2026-10-08T22:11:41",
+  "user_id": null,
+  "event_type": "purchase",
+  "page": "/products",
+  "session_id": "sess-9332"
+ },
+ {
+  "event_id": "evt-00022",
+  "event_time": "2026-10-08T10:38:04",
+  "user_id": null,
+  "event_type": "purchase",
+  "page": "/home",
+  "session_id": "sess-8830"
+ },
+ {
+  "event_id": "evt-00023",
+  "event_time": "2026-10-08T18:27:00",
+  "user_id": null,
+  "event_type": "click",
+  "page": "/deals",
+  "session_id": "sess-8622"
+ },
+ {
+  "event_id": "evt-00024",
+  "event_time": "2026-10-08T02:49:47",
+  "user_id": null,
+  "event_type": "click",
+  "page": "/products",
+  "session_id": "sess-4701"
+ },
+ {
+  "event_id": "evt-00025",
+  "event_time": "2026-10-08T03:40:16",
+  "user_id": null,
+  "event_type": "purchase",
+  "page": "/home",
+  "session_id": "sess-3019"
+ },
+ {
+  "event_id": "evt-00026",
+  "event_time": "2026-10-08T11:32:57",
+  "user_id": null,
+  "event_type": "purchase",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-1860"
+ },
+ {
+  "event_id": "evt-00027",
+  "event_time": "2026-10-08T09:09:40",
+  "user_id": null,
+  "event_type": "purchase",
+  "page": "/cart",
+  "session_id": "sess-9572"
+ },
+ {
+  "event_id": "evt-00028",
+  "event_time": "2026-10-08T09:08:18",
+  "user_id": null,
+  "event_type": "view",
+  "page": "/home",
+  "session_id": "sess-9313"
+ },
+ {
+  "event_id": "evt-00029",
+  "event_time": "2026-10-08T00:36:10",
+  "user_id": null,
+  "event_type": "view",
+  "page": "/deals",
+  "session_id": "sess-4322"
+ },
+ {
+  "event_id": "evt-00030",
+  "event_time": "2026-10-08T05:31:47",
+  "user_id": null,
+  "event_type": "view",
+  "page": "/cart",
+  "session_id": "sess-6383"
+ },
+ {
+  "event_id": "evt-00031",
+  "event_time": "2026-10-08T20:36:15",
+  "user_id": 98,
+  "event_type": "purchase",
+  "page": "/deals",
+  "session_id": "sess-9787"
+ },
+ {
+  "event_id": "evt-00032",
+  "event_time": "2026-10-08T16:06:30",
+  "user_id": 136,
+  "event_type": "purchase",
+  "page": "/home",
+  "session_id": "sess-1434"
+ },
+ {
+  "event_id": "evt-00033",
+  "event_time": "2026-10-08T15:00:46",
+  "user_id": 60,
+  "event_type": "purchase",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-4472"
+ },
+ {
+  "event_id": "evt-00034",
+  "event_time": "2026-10-08T13:26:39",
+  "user_id": 150,
+  "event_type": "view",
+  "page": "/checkout",
+  "session_id": "sess-3810"
+ },
+ {
+  "event_id": "evt-00035",
+  "event_time": "2026-10-08T05:01:02",
+  "user_id": 7,
+  "event_type": "view",
+  "page": "/home",
+  "session_id": "sess-3651"
+ },
+ {
+  "event_id": "evt-00036",
+  "event_time": "2026-10-08T11:51:09",
+  "user_id": 180,
+  "event_type": "view",
+  "page": "/home",
+  "session_id": "sess-1682"
+ },
+ {
+  "event_id": "evt-00037",
+  "event_time": "2026-10-08T04:48:44",
+  "user_id": 165,
+  "event_type": "purchase",
+  "page": "/home",
+  "session_id": "sess-2111"
+ },
+ {
+  "event_id": "evt-00038",
+  "event_time": "2026-10-08T01:40:04",
+  "user_id": 152,
+  "event_type": "click",
+  "page": "/products",
+  "session_id": "sess-9747"
+ },
+ {
+  "event_id": "evt-00039",
+  "event_time": "2026-10-08T22:45:04",
+  "user_id": 194,
+  "event_type": "purchase",
+  "page": "/cart",
+  "session_id": "sess-2754"
+ },
+ {
+  "event_id": "evt-00040",
+  "event_time": "2026-10-08T08:29:13",
+  "user_id": 53,
+  "event_type": "view",
+  "page": "/home",
+  "session_id": "sess-1564"
+ },
+ {
+  "event_id": "evt-00041",
+  "event_time": "2026-10-08T21:43:05",
+  "user_id": 193,
+  "event_type": "purchase",
+  "page": "/deals",
+  "session_id": "sess-5708"
+ },
+ {
+  "event_id": "evt-00042",
+  "event_time": "2026-10-08T16:22:06",
+  "user_id": 34,
+  "event_type": "view",
+  "page": "/deals",
+  "session_id": "sess-4358"
+ },
+ {
+  "event_id": "evt-00043",
+  "event_time": "2026-10-08T10:08:20",
+  "user_id": 87,
+  "event_type": "click",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-1342"
+ },
+ {
+  "event_id": "evt-00044",
+  "event_time": "2026-10-08T12:03:16",
+  "user_id": 73,
+  "event_type": "view",
+  "page": "/deals",
+  "session_id": "sess-7029"
+ },
+ {
+  "event_id": "evt-00045",
+  "event_time": "2026-10-08T11:02:49",
+  "user_id": 155,
+  "event_type": "purchase",
+  "page": "/cart",
+  "session_id": "sess-5712"
+ },
+ {
+  "event_id": "evt-00046",
+  "event_time": "2026-10-08T21:11:47",
+  "user_id": 8,
+  "event_type": "click",
+  "page": "/home",
+  "session_id": "sess-8150"
+ },
+ {
+  "event_id": "evt-00047",
+  "event_time": "2026-10-08T17:47:49",
+  "user_id": 26,
+  "event_type": "click",
+  "page": "/cart",
+  "session_id": "sess-1788"
+ },
+ {
+  "event_id": "evt-00048",
+  "event_time": "2026-10-08T18:26:36",
+  "user_id": 56,
+  "event_type": "purchase",
+  "page": "/home",
+  "session_id": "sess-5704"
+ },
+ {
+  "event_id": "evt-00049",
+  "event_time": "2026-10-08T05:53:27",
+  "user_id": 1,
+  "event_type": "purchase",
+  "page": "/products",
+  "session_id": "sess-5724"
+ },
+ {
+  "event_id": "evt-00050",
+  "event_time": "2026-10-08T01:55:00",
+  "user_id": 90,
+  "event_type": "click",
+  "page": "/home",
+  "session_id": "sess-9052"
+ },
+ {
+  "event_id": "evt-00051",
+  "event_time": "2026-10-08T06:22:31",
+  "user_id": 152,
+  "event_type": "click",
+  "page": "/checkout",
+  "session_id": "sess-5269"
+ },
+ {
+  "event_id": "evt-00052",
+  "event_time": "2026-10-08T19:48:10",
+  "user_id": 73,
+  "event_type": "view",
+  "page": "/deals",
+  "session_id": "sess-4793"
+ },
+ {
+  "event_id": "evt-00053",
+  "event_time": "2026-10-08T17:05:10",
+  "user_id": 29,
+  "event_type": "purchase",
+  "page": "/home",
+  "session_id": "sess-9032"
+ },
+ {
+  "event_id": "evt-00054",
+  "event_time": "2026-10-08T19:14:50",
+  "user_id": 27,
+  "event_type": "purchase",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-6826"
+ },
+ {
+  "event_id": "evt-00055",
+  "event_time": "2026-10-08T03:19:25",
+  "user_id": 102,
+  "event_type": "purchase",
+  "page": "/home",
+  "session_id": "sess-7916"
+ },
+ {
+  "event_id": "evt-00056",
+  "event_time": "2026-10-08T22:07:01",
+  "user_id": 96,
+  "event_type": "view",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-5312"
+ },
+ {
+  "event_id": "evt-00057",
+  "event_time": "2026-10-08T14:41:57",
+  "user_id": 140,
+  "event_type": "purchase",
+  "page": "/products",
+  "session_id": "sess-7214"
+ },
+ {
+  "event_id": "evt-00058",
+  "event_time": "2026-10-08T21:36:14",
+  "user_id": 118,
+  "event_type": "view",
+  "page": "/checkout",
+  "session_id": "sess-1555"
+ },
+ {
+  "event_id": "evt-00059",
+  "event_time": "2026-10-08T11:58:37",
+  "user_id": 84,
+  "event_type": "purchase",
+  "page": "/products",
+  "session_id": "sess-8377"
+ },
+ {
+  "event_id": "evt-00060",
+  "event_time": "2026-10-08T22:40:35",
+  "user_id": 190,
+  "event_type": "click",
+  "page": "/products",
+  "session_id": "sess-8588"
+ },
+ {
+  "event_id": "evt-00061",
+  "event_time": "2026-10-08T15:03:44",
+  "user_id": 198,
+  "event_type": "click",
+  "page": "/checkout",
+  "session_id": "sess-4785"
+ },
+ {
+  "event_id": "evt-00062",
+  "event_time": "2026-10-08T04:23:21",
+  "user_id": 119,
+  "event_type": "purchase",
+  "page": "/deals",
+  "session_id": "sess-4898"
+ },
+ {
+  "event_id": "evt-00063",
+  "event_time": "2026-10-08T17:24:12",
+  "user_id": 69,
+  "event_type": "click",
+  "page": "/deals",
+  "session_id": "sess-3532"
+ },
+ {
+  "event_id": "evt-00064",
+  "event_time": "2026-10-08T05:24:15",
+  "user_id": 186,
+  "event_type": "click",
+  "page": "/checkout",
+  "session_id": "sess-9555"
+ },
+ {
+  "event_id": "evt-00065",
+  "event_time": "2026-10-08T11:58:10",
+  "user_id": 61,
+  "event_type": "click",
+  "page": "/products",
+  "session_id": "sess-5238"
+ },
+ {
+  "event_id": "evt-00066",
+  "event_time": "2026-10-08T03:33:10",
+  "user_id": 169,
+  "event_type": "view",
+  "page": "/products",
+  "session_id": "sess-7295"
+ },
+ {
+  "event_id": "evt-00067",
+  "event_time": "2026-10-08T05:14:09",
+  "user_id": 78,
+  "event_type": "purchase",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-8125"
+ },
+ {
+  "event_id": "evt-00068",
+  "event_time": "2026-10-08T09:25:12",
+  "user_id": 28,
+  "event_type": "purchase",
+  "page": "/home",
+  "session_id": "sess-5600"
+ },
+ {
+  "event_id": "evt-00069",
+  "event_time": "2026-10-08T07:07:56",
+  "user_id": 100,
+  "event_type": "click",
+  "page": "/home",
+  "session_id": "sess-1206"
+ },
+ {
+  "event_id": "evt-00070",
+  "event_time": "2026-10-08T13:42:54",
+  "user_id": 112,
+  "event_type": "purchase",
+  "page": "/products",
+  "session_id": "sess-9199"
+ },
+ {
+  "event_id": "evt-00071",
+  "event_time": "2026-10-08T21:40:18",
+  "user_id": 119,
+  "event_type": "view",
+  "page": "/products",
+  "session_id": "sess-5214"
+ },
+ {
+  "event_id": "evt-00072",
+  "event_time": "2026-10-08T20:41:47",
+  "user_id": 104,
+  "event_type": "view",
+  "page": "/deals",
+  "session_id": "sess-4969"
+ },
+ {
+  "event_id": "evt-00073",
+  "event_time": "2026-10-08T14:45:44",
+  "user_id": 147,
+  "event_type": "purchase",
+  "page": "/deals",
+  "session_id": "sess-7900"
+ },
+ {
+  "event_id": "evt-00074",
+  "event_time": "2026-10-08T07:53:42",
+  "user_id": 185,
+  "event_type": "purchase",
+  "page": "/deals",
+  "session_id": "sess-4745"
+ },
+ {
+  "event_id": "evt-00075",
+  "event_time": "2026-10-08T23:16:11",
+  "user_id": 165,
+  "event_type": "view",
+  "page": "/cart",
+  "session_id": "sess-8086"
+ },
+ {
+  "event_id": "evt-00076",
+  "event_time": "2026-10-08T10:46:16",
+  "user_id": 161,
+  "event_type": "purchase",
+  "page": "/home",
+  "session_id": "sess-7874"
+ },
+ {
+  "event_id": "evt-00077",
+  "event_time": "2026-10-08T08:21:50",
+  "user_id": 103,
+  "event_type": "purchase",
+  "page": "/deals",
+  "session_id": "sess-3563"
+ },
+ {
+  "event_id": "evt-00078",
+  "event_time": "2026-10-08T08:37:54",
+  "user_id": 109,
+  "event_type": "click",
+  "page": "/cart",
+  "session_id": "sess-1322"
+ },
+ {
+  "event_id": "evt-00079",
+  "event_time": "2026-10-08T21:17:54",
+  "user_id": 105,
+  "event_type": "purchase",
+  "page": "/deals",
+  "session_id": "sess-3999"
+ },
+ {
+  "event_id": "evt-00080",
+  "event_time": "2026-10-08T22:25:20",
+  "user_id": 200,
+  "event_type": "view",
+  "page": "/cart",
+  "session_id": "sess-9025"
+ },
+ {
+  "event_id": "evt-00081",
+  "event_time": "2026-10-08T03:42:02",
+  "user_id": 65,
+  "event_type": "purchase",
+  "page": "/products",
+  "session_id": "sess-3635"
+ },
+ {
+  "event_id": "evt-00082",
+  "event_time": "2026-10-08T06:54:33",
+  "user_id": 90,
+  "event_type": "view",
+  "page": "/checkout",
+  "session_id": "sess-8483"
+ },
+ {
+  "event_id": "evt-00083",
+  "event_time": "2026-10-08T18:33:13",
+  "user_id": 184,
+  "event_type": "click",
+  "page": "/checkout",
+  "session_id": "sess-1263"
+ },
+ {
+  "event_id": "evt-00084",
+  "event_time": "2026-10-08T21:54:50",
+  "user_id": 95,
+  "event_type": "purchase",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-7723"
+ },
+ {
+  "event_id": "evt-00085",
+  "event_time": "2026-10-08T15:40:13",
+  "user_id": 176,
+  "event_type": "view",
+  "page": "/cart",
+  "session_id": "sess-9417"
+ },
+ {
+  "event_id": "evt-00086",
+  "event_time": "2026-10-08T04:15:46",
+  "user_id": 158,
+  "event_type": "click",
+  "page": "/deals",
+  "session_id": "sess-1927"
+ },
+ {
+  "event_id": "evt-00087",
+  "event_time": "2026-10-08T08:42:17",
+  "user_id": 98,
+  "event_type": "click",
+  "page": "/home",
+  "session_id": "sess-1218"
+ },
+ {
+  "event_id": "evt-00088",
+  "event_time": "2026-10-08T02:38:26",
+  "user_id": 108,
+  "event_type": "purchase",
+  "page": "/deals",
+  "session_id": "sess-6769"
+ },
+ {
+  "event_id": "evt-00089",
+  "event_time": "2026-10-08T19:53:16",
+  "user_id": 28,
+  "event_type": "view",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-7561"
+ },
+ {
+  "event_id": "evt-00090",
+  "event_time": "2026-10-08T18:04:14",
+  "user_id": 101,
+  "event_type": "click",
+  "page": "/products",
+  "session_id": "sess-3695"
+ },
+ {
+  "event_id": "evt-00091",
+  "event_time": "2026-10-08T04:29:59",
+  "user_id": 199,
+  "event_type": "view",
+  "page": "/deals",
+  "session_id": "sess-4164"
+ },
+ {
+  "event_id": "evt-00092",
+  "event_time": "2026-10-08T16:05:41",
+  "user_id": 144,
+  "event_type": "purchase",
+  "page": "/products",
+  "session_id": "sess-3396"
+ },
+ {
+  "event_id": "evt-00093",
+  "event_time": "2026-10-08T12:08:42",
+  "user_id": 164,
+  "event_type": "click",
+  "page": "/cart",
+  "session_id": "sess-5822"
+ },
+ {
+  "event_id": "evt-00094",
+  "event_time": "2026-10-08T18:47:41",
+  "user_id": 33,
+  "event_type": "click",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-4775"
+ },
+ {
+  "event_id": "evt-00095",
+  "event_time": "2026-10-08T09:12:45",
+  "user_id": 97,
+  "event_type": "purchase",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-7981"
+ },
+ {
+  "event_id": "evt-00096",
+  "event_time": "2026-10-08T23:15:11",
+  "user_id": 124,
+  "event_type": "view",
+  "page": "/deals",
+  "session_id": "sess-5607"
+ },
+ {
+  "event_id": "evt-00097",
+  "event_time": "2026-10-08T12:18:15",
+  "user_id": 168,
+  "event_type": "click",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-8856"
+ },
+ {
+  "event_id": "evt-00098",
+  "event_time": "2026-10-08T16:38:27",
+  "user_id": 160,
+  "event_type": "purchase",
+  "page": "/home",
+  "session_id": "sess-6938"
+ },
+ {
+  "event_id": "evt-00099",
+  "event_time": "2026-10-08T05:17:59",
+  "user_id": 78,
+  "event_type": "click",
+  "page": "/home",
+  "session_id": "sess-2397"
+ },
+ {
+  "event_id": "evt-00100",
+  "event_time": "2026-10-08T19:21:57",
+  "user_id": 84,
+  "event_type": "view",
+  "page": "/checkout",
+  "session_id": "sess-6654"
+ },
+ {
+  "event_id": "evt-00101",
+  "event_time": "2026-10-08T21:41:37",
+  "user_id": 4,
+  "event_type": "purchase",
+  "page": "/home",
+  "session_id": "sess-4436"
+ },
+ {
+  "event_id": "evt-00102",
+  "event_time": "2026-10-08T02:32:41",
+  "user_id": 76,
+  "event_type": "click",
+  "page": "/checkout",
+  "session_id": "sess-2663"
+ },
+ {
+  "event_id": "evt-00103",
+  "event_time": "2026-10-08T19:49:09",
+  "user_id": 60,
+  "event_type": "view",
+  "page": "/cart",
+  "session_id": "sess-6676"
+ },
+ {
+  "event_id": "evt-00104",
+  "event_time": "2026-10-08T05:17:13",
+  "user_id": 104,
+  "event_type": "purchase",
+  "page": "/products",
+  "session_id": "sess-2481"
+ },
+ {
+  "event_id": "evt-00105",
+  "event_time": "2026-10-08T22:54:57",
+  "user_id": 141,
+  "event_type": "purchase",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-4233"
+ },
+ {
+  "event_id": "evt-00106",
+  "event_time": "2026-10-08T16:57:44",
+  "user_id": 55,
+  "event_type": "purchase",
+  "page": "/home",
+  "session_id": "sess-8185"
+ },
+ {
+  "event_id": "evt-00107",
+  "event_time": "2026-10-08T22:59:56",
+  "user_id": 30,
+  "event_type": "purchase",
+  "page": "/home",
+  "session_id": "sess-5333"
+ },
+ {
+  "event_id": "evt-00108",
+  "event_time": "2026-10-08T14:23:14",
+  "user_id": 36,
+  "event_type": "click",
+  "page": "/cart",
+  "session_id": "sess-1957"
+ },
+ {
+  "event_id": "evt-00109",
+  "event_time": "2026-10-08T16:36:29",
+  "user_id": 37,
+  "event_type": "purchase",
+  "page": "/cart",
+  "session_id": "sess-5039"
+ },
+ {
+  "event_id": "evt-00110",
+  "event_time": "2026-10-08T17:05:10",
+  "user_id": 139,
+  "event_type": "purchase",
+  "page": "/deals",
+  "session_id": "sess-1108"
+ },
+ {
+  "event_id": "evt-00111",
+  "event_time": "2026-10-08T05:33:53",
+  "user_id": 83,
+  "event_type": "click",
+  "page": "/deals",
+  "session_id": "sess-9152"
+ },
+ {
+  "event_id": "evt-00112",
+  "event_time": "2026-10-08T22:47:18",
+  "user_id": 120,
+  "event_type": "click",
+  "page": "/cart",
+  "session_id": "sess-7861"
+ },
+ {
+  "event_id": "evt-00113",
+  "event_time": "2026-10-08T23:09:04",
+  "user_id": 47,
+  "event_type": "purchase",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-1467"
+ },
+ {
+  "event_id": "evt-00114",
+  "event_time": "2026-10-08T00:47:39",
+  "user_id": 12,
+  "event_type": "purchase",
+  "page": "/deals",
+  "session_id": "sess-6414"
+ },
+ {
+  "event_id": "evt-00115",
+  "event_time": "2026-10-08T03:17:32",
+  "user_id": 124,
+  "event_type": "click",
+  "page": "/products",
+  "session_id": "sess-1555"
+ },
+ {
+  "event_id": "evt-00116",
+  "event_time": "2026-10-08T07:21:45",
+  "user_id": 107,
+  "event_type": "purchase",
+  "page": "/products",
+  "session_id": "sess-6547"
+ },
+ {
+  "event_id": "evt-00117",
+  "event_time": "2026-10-08T03:18:55",
+  "user_id": 169,
+  "event_type": "click",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-8774"
+ },
+ {
+  "event_id": "evt-00118",
+  "event_time": "2026-10-08T18:01:35",
+  "user_id": 198,
+  "event_type": "view",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-8130"
+ },
+ {
+  "event_id": "evt-00119",
+  "event_time": "2026-10-08T11:45:27",
+  "user_id": 65,
+  "event_type": "purchase",
+  "page": "/home",
+  "session_id": "sess-5737"
+ },
+ {
+  "event_id": "evt-00120",
+  "event_time": "2026-10-08T10:04:22",
+  "user_id": 127,
+  "event_type": "click",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-9253"
+ },
+ {
+  "event_id": "evt-00121",
+  "event_time": "2026-10-08T09:21:55",
+  "user_id": 130,
+  "event_type": "click",
+  "page": "/products",
+  "session_id": "sess-9064"
+ },
+ {
+  "event_id": "evt-00122",
+  "event_time": "2026-10-08T04:06:21",
+  "user_id": 50,
+  "event_type": "click",
+  "page": "/deals",
+  "session_id": "sess-5902"
+ },
+ {
+  "event_id": "evt-00123",
+  "event_time": "2026-10-08T04:26:37",
+  "user_id": 163,
+  "event_type": "view",
+  "page": "/home",
+  "session_id": "sess-7535"
+ },
+ {
+  "event_id": "evt-00124",
+  "event_time": "2026-10-08T19:00:56",
+  "user_id": 104,
+  "event_type": "purchase",
+  "page": "/checkout",
+  "session_id": "sess-1814"
+ },
+ {
+  "event_id": "evt-00125",
+  "event_time": "2026-10-08T13:41:19",
+  "user_id": 28,
+  "event_type": "view",
+  "page": "/home",
+  "session_id": "sess-4111"
+ },
+ {
+  "event_id": "evt-00126",
+  "event_time": "2026-10-08T16:17:38",
+  "user_id": 197,
+  "event_type": "purchase",
+  "page": "/home",
+  "session_id": "sess-9205"
+ },
+ {
+  "event_id": "evt-00127",
+  "event_time": "2026-10-08T18:38:39",
+  "user_id": 97,
+  "event_type": "purchase",
+  "page": "/products",
+  "session_id": "sess-2359"
+ },
+ {
+  "event_id": "evt-00128",
+  "event_time": "2026-10-08T07:20:02",
+  "user_id": 171,
+  "event_type": "purchase",
+  "page": "/cart",
+  "session_id": "sess-3849"
+ },
+ {
+  "event_id": "evt-00129",
+  "event_time": "2026-10-08T03:32:42",
+  "user_id": 47,
+  "event_type": "view",
+  "page": "/cart",
+  "session_id": "sess-2648"
+ },
+ {
+  "event_id": "evt-00130",
+  "event_time": "2026-10-08T22:27:00",
+  "user_id": 95,
+  "event_type": "view",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-5227"
+ },
+ {
+  "event_id": "evt-00131",
+  "event_time": "2026-10-08T10:23:11",
+  "user_id": 108,
+  "event_type": "view",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-1334"
+ },
+ {
+  "event_id": "evt-00132",
+  "event_time": "2026-10-08T14:47:36",
+  "user_id": 165,
+  "event_type": "purchase",
+  "page": "/home",
+  "session_id": "sess-9155"
+ },
+ {
+  "event_id": "evt-00133",
+  "event_time": "2026-10-08T19:27:33",
+  "user_id": 11,
+  "event_type": "view",
+  "page": "/cart",
+  "session_id": "sess-7629"
+ },
+ {
+  "event_id": "evt-00134",
+  "event_time": "2026-10-08T15:19:04",
+  "user_id": 4,
+  "event_type": "purchase",
+  "page": "/cart",
+  "session_id": "sess-3544"
+ },
+ {
+  "event_id": "evt-00135",
+  "event_time": "2026-10-08T16:18:49",
+  "user_id": 106,
+  "event_type": "purchase",
+  "page": "/home",
+  "session_id": "sess-2358"
+ },
+ {
+  "event_id": "evt-00136",
+  "event_time": "2026-10-08T22:04:30",
+  "user_id": 55,
+  "event_type": "view",
+  "page": "/deals",
+  "session_id": "sess-1254"
+ },
+ {
+  "event_id": "evt-00137",
+  "event_time": "2026-10-08T14:39:00",
+  "user_id": 3,
+  "event_type": "purchase",
+  "page": "/deals",
+  "session_id": "sess-2993"
+ },
+ {
+  "event_id": "evt-00138",
+  "event_time": "2026-10-08T03:05:13",
+  "user_id": 32,
+  "event_type": "view",
+  "page": "/cart",
+  "session_id": "sess-1291"
+ },
+ {
+  "event_id": "evt-00139",
+  "event_time": "2026-10-08T09:29:46",
+  "user_id": 146,
+  "event_type": "view",
+  "page": "/cart",
+  "session_id": "sess-4070"
+ },
+ {
+  "event_id": "evt-00140",
+  "event_time": "2026-10-08T01:47:23",
+  "user_id": 199,
+  "event_type": "purchase",
+  "page": "/deals",
+  "session_id": "sess-3372"
+ },
+ {
+  "event_id": "evt-00141",
+  "event_time": "2026-10-08T02:57:18",
+  "user_id": 161,
+  "event_type": "purchase",
+  "page": "/deals",
+  "session_id": "sess-9160"
+ },
+ {
+  "event_id": "evt-00142",
+  "event_time": "2026-10-08T15:48:42",
+  "user_id": 66,
+  "event_type": "view",
+  "page": "/deals",
+  "session_id": "sess-1523"
+ },
+ {
+  "event_id": "evt-00143",
+  "event_time": "2026-10-08T00:28:03",
+  "user_id": 4,
+  "event_type": "purchase",
+  "page": "/deals",
+  "session_id": "sess-2305"
+ },
+ {
+  "event_id": "evt-00144",
+  "event_time": "2026-10-08T13:21:19",
+  "user_id": 80,
+  "event_type": "purchase",
+  "page": "/checkout",
+  "session_id": "sess-3719"
+ },
+ {
+  "event_id": "evt-00145",
+  "event_time": "2026-10-08T16:41:38",
+  "user_id": 16,
+  "event_type": "click",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-8188"
+ },
+ {
+  "event_id": "evt-00146",
+  "event_time": "2026-10-08T16:07:43",
+  "user_id": 43,
+  "event_type": "view",
+  "page": "/home",
+  "session_id": "sess-6951"
+ },
+ {
+  "event_id": "evt-00147",
+  "event_time": "2026-10-08T22:05:10",
+  "user_id": 162,
+  "event_type": "click",
+  "page": "/cart",
+  "session_id": "sess-7319"
+ },
+ {
+  "event_id": "evt-00148",
+  "event_time": "2026-10-08T15:32:17",
+  "user_id": 194,
+  "event_type": "purchase",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-5790"
+ },
+ {
+  "event_id": "evt-00149",
+  "event_time": "2026-10-08T09:38:03",
+  "user_id": 160,
+  "event_type": "purchase",
+  "page": "/deals",
+  "session_id": "sess-6440"
+ },
+ {
+  "event_id": "evt-00150",
+  "event_time": "2026-10-08T20:45:46",
+  "user_id": 4,
+  "event_type": "view",
+  "page": "/checkout",
+  "session_id": "sess-6056"
+ },
+ {
+  "event_id": "evt-00151",
+  "event_time": "2026-10-08T20:02:27",
+  "user_id": 64,
+  "event_type": "click",
+  "page": "/cart",
+  "session_id": "sess-7163"
+ },
+ {
+  "event_id": "evt-00152",
+  "event_time": "2026-10-08T20:37:49",
+  "user_id": 60,
+  "event_type": "click",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-1027"
+ },
+ {
+  "event_id": "evt-00153",
+  "event_time": "2026-10-08T11:03:16",
+  "user_id": 69,
+  "event_type": "click",
+  "page": "/products",
+  "session_id": "sess-1692"
+ },
+ {
+  "event_id": "evt-00154",
+  "event_time": "2026-10-08T09:55:53",
+  "user_id": 37,
+  "event_type": "purchase",
+  "page": "/products",
+  "session_id": "sess-5486"
+ },
+ {
+  "event_id": "evt-00155",
+  "event_time": "2026-10-08T18:46:43",
+  "user_id": 199,
+  "event_type": "click",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-9758"
+ },
+ {
+  "event_id": "evt-00156",
+  "event_time": "2026-10-08T02:59:34",
+  "user_id": 142,
+  "event_type": "click",
+  "page": "/cart",
+  "session_id": "sess-4283"
+ },
+ {
+  "event_id": "evt-00157",
+  "event_time": "2026-10-08T08:04:19",
+  "user_id": 156,
+  "event_type": "view",
+  "page": "/deals",
+  "session_id": "sess-7479"
+ },
+ {
+  "event_id": "evt-00158",
+  "event_time": "2026-10-08T15:57:45",
+  "user_id": 53,
+  "event_type": "click",
+  "page": "/checkout",
+  "session_id": "sess-1153"
+ },
+ {
+  "event_id": "evt-00159",
+  "event_time": "2026-10-08T13:13:29",
+  "user_id": 139,
+  "event_type": "view",
+  "page": "/checkout",
+  "session_id": "sess-6818"
+ },
+ {
+  "event_id": "evt-00160",
+  "event_time": "2026-10-08T02:13:14",
+  "user_id": 102,
+  "event_type": "purchase",
+  "page": "/checkout",
+  "session_id": "sess-5252"
+ },
+ {
+  "event_id": "evt-00161",
+  "event_time": "2026-10-08T17:53:20",
+  "user_id": 123,
+  "event_type": "purchase",
+  "page": "/checkout",
+  "session_id": "sess-4307"
+ },
+ {
+  "event_id": "evt-00162",
+  "event_time": "2026-10-08T06:32:13",
+  "user_id": 50,
+  "event_type": "view",
+  "page": "/products",
+  "session_id": "sess-5748"
+ },
+ {
+  "event_id": "evt-00163",
+  "event_time": "2026-10-08T12:28:36",
+  "user_id": 145,
+  "event_type": "click",
+  "page": "/cart",
+  "session_id": "sess-9474"
+ },
+ {
+  "event_id": "evt-00164",
+  "event_time": "2026-10-08T05:10:15",
+  "user_id": 12,
+  "event_type": "click",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-2738"
+ },
+ {
+  "event_id": "evt-00165",
+  "event_time": "2026-10-08T12:46:40",
+  "user_id": 119,
+  "event_type": "view",
+  "page": "/products",
+  "session_id": "sess-6173"
+ },
+ {
+  "event_id": "evt-00166",
+  "event_time": "2026-10-08T20:28:01",
+  "user_id": 89,
+  "event_type": "click",
+  "page": "/checkout",
+  "session_id": "sess-1337"
+ },
+ {
+  "event_id": "evt-00167",
+  "event_time": "2026-10-08T03:17:02",
+  "user_id": 53,
+  "event_type": "purchase",
+  "page": "/cart",
+  "session_id": "sess-4499"
+ },
+ {
+  "event_id": "evt-00168",
+  "event_time": "2026-10-08T09:00:59",
+  "user_id": 200,
+  "event_type": "click",
+  "page": "/cart",
+  "session_id": "sess-2591"
+ },
+ {
+  "event_id": "evt-00169",
+  "event_time": "2026-10-08T15:20:49",
+  "user_id": 152,
+  "event_type": "purchase",
+  "page": "/products",
+  "session_id": "sess-5161"
+ },
+ {
+  "event_id": "evt-00170",
+  "event_time": "2026-10-08T01:22:21",
+  "user_id": 52,
+  "event_type": "view",
+  "page": "/cart",
+  "session_id": "sess-2370"
+ },
+ {
+  "event_id": "evt-00171",
+  "event_time": "2026-10-08T01:01:03",
+  "user_id": 9,
+  "event_type": "purchase",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-8508"
+ },
+ {
+  "event_id": "evt-00172",
+  "event_time": "2026-10-08T16:42:54",
+  "user_id": 17,
+  "event_type": "purchase",
+  "page": "/deals",
+  "session_id": "sess-7510"
+ },
+ {
+  "event_id": "evt-00173",
+  "event_time": "2026-10-08T04:10:45",
+  "user_id": 24,
+  "event_type": "click",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-4820"
+ },
+ {
+  "event_id": "evt-00174",
+  "event_time": "2026-10-08T21:57:05",
+  "user_id": 172,
+  "event_type": "purchase",
+  "page": "/cart",
+  "session_id": "sess-3992"
+ },
+ {
+  "event_id": "evt-00175",
+  "event_time": "2026-10-08T15:23:54",
+  "user_id": 41,
+  "event_type": "click",
+  "page": "/products",
+  "session_id": "sess-4632"
+ },
+ {
+  "event_id": "evt-00176",
+  "event_time": "2026-10-08T05:57:02",
+  "user_id": 66,
+  "event_type": "click",
+  "page": "/home",
+  "session_id": "sess-1455"
+ },
+ {
+  "event_id": "evt-00177",
+  "event_time": "2026-10-08T01:41:16",
+  "user_id": 132,
+  "event_type": "purchase",
+  "page": "/deals",
+  "session_id": "sess-8920"
+ },
+ {
+  "event_id": "evt-00178",
+  "event_time": "2026-10-08T01:59:06",
+  "user_id": 38,
+  "event_type": "click",
+  "page": "/home",
+  "session_id": "sess-4259"
+ },
+ {
+  "event_id": "evt-00179",
+  "event_time": "2026-10-08T23:11:47",
+  "user_id": 77,
+  "event_type": "purchase",
+  "page": "/checkout",
+  "session_id": "sess-8229"
+ },
+ {
+  "event_id": "evt-00180",
+  "event_time": "2026-10-08T22:21:06",
+  "user_id": 121,
+  "event_type": "click",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-5210"
+ },
+ {
+  "event_id": "evt-00181",
+  "event_time": "2026-10-08T13:23:07",
+  "user_id": 96,
+  "event_type": "click",
+  "page": "/cart",
+  "session_id": "sess-3761"
+ },
+ {
+  "event_id": "evt-00182",
+  "event_time": "2026-10-08T15:08:15",
+  "user_id": 37,
+  "event_type": "purchase",
+  "page": "/home",
+  "session_id": "sess-8666"
+ },
+ {
+  "event_id": "evt-00183",
+  "event_time": "2026-10-08T06:44:51",
+  "user_id": 10,
+  "event_type": "view",
+  "page": "/products",
+  "session_id": "sess-2274"
+ },
+ {
+  "event_id": "evt-00184",
+  "event_time": "2026-10-08T21:12:55",
+  "user_id": 96,
+  "event_type": "purchase",
+  "page": "/products",
+  "session_id": "sess-8327"
+ },
+ {
+  "event_id": "evt-00185",
+  "event_time": "2026-10-08T03:23:59",
+  "user_id": 99,
+  "event_type": "view",
+  "page": "/deals",
+  "session_id": "sess-2231"
+ },
+ {
+  "event_id": "evt-00186",
+  "event_time": "2026-10-08T15:31:21",
+  "user_id": 83,
+  "event_type": "view",
+  "page": "/cart",
+  "session_id": "sess-2894"
+ },
+ {
+  "event_id": "evt-00187",
+  "event_time": "2026-10-08T21:31:23",
+  "user_id": 37,
+  "event_type": "click",
+  "page": "/products",
+  "session_id": "sess-1929"
+ },
+ {
+  "event_id": "evt-00188",
+  "event_time": "2026-10-08T06:14:45",
+  "user_id": 116,
+  "event_type": "purchase",
+  "page": "/products",
+  "session_id": "sess-8192"
+ },
+ {
+  "event_id": "evt-00189",
+  "event_time": "2026-10-08T05:10:17",
+  "user_id": 108,
+  "event_type": "click",
+  "page": "/products",
+  "session_id": "sess-3550"
+ },
+ {
+  "event_id": "evt-00190",
+  "event_time": "2026-10-08T00:57:17",
+  "user_id": 147,
+  "event_type": "click",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-3749"
+ },
+ {
+  "event_id": "evt-00191",
+  "event_time": "2026-10-08T08:58:31",
+  "user_id": 28,
+  "event_type": "click",
+  "page": "/cart",
+  "session_id": "sess-8904"
+ },
+ {
+  "event_id": "evt-00192",
+  "event_time": "2026-10-08T03:58:09",
+  "user_id": 132,
+  "event_type": "view",
+  "page": "/deals",
+  "session_id": "sess-4459"
+ },
+ {
+  "event_id": "evt-00193",
+  "event_time": "2026-10-08T19:11:30",
+  "user_id": 74,
+  "event_type": "view",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-4303"
+ },
+ {
+  "event_id": "evt-00194",
+  "event_time": "2026-10-08T12:31:27",
+  "user_id": 67,
+  "event_type": "view",
+  "page": "/products",
+  "session_id": "sess-2598"
+ },
+ {
+  "event_id": "evt-00195",
+  "event_time": "2026-10-08T13:24:18",
+  "user_id": 107,
+  "event_type": "view",
+  "page": "/home",
+  "session_id": "sess-5809"
+ },
+ {
+  "event_id": "evt-00196",
+  "event_time": "2026-10-08T05:00:40",
+  "user_id": 5,
+  "event_type": "click",
+  "page": "/checkout",
+  "session_id": "sess-6585"
+ },
+ {
+  "event_id": "evt-00197",
+  "event_time": "2026-10-08T17:31:08",
+  "user_id": 114,
+  "event_type": "view",
+  "page": "/checkout",
+  "session_id": "sess-5692"
+ },
+ {
+  "event_id": "evt-00198",
+  "event_time": "2026-10-08T06:25:23",
+  "user_id": 112,
+  "event_type": "view",
+  "page": "/cart",
+  "session_id": "sess-4576"
+ },
+ {
+  "event_id": "evt-00199",
+  "event_time": "2026-10-08T09:31:36",
+  "user_id": 47,
+  "event_type": "view",
+  "page": "/products",
+  "session_id": "sess-9546"
+ },
+ {
+  "event_id": "evt-00200",
+  "event_time": "2026-10-08T07:56:45",
+  "user_id": 45,
+  "event_type": "view",
+  "page": "/checkout",
+  "session_id": "sess-2298"
+ },
+ {
+  "event_id": "evt-00201",
+  "event_time": "2026-10-08T03:04:56",
+  "user_id": 156,
+  "event_type": "purchase",
+  "page": "/cart",
+  "session_id": "sess-5487"
+ },
+ {
+  "event_id": "evt-00202",
+  "event_time": "2026-10-08T06:04:13",
+  "user_id": 36,
+  "event_type": "purchase",
+  "page": "/deals",
+  "session_id": "sess-4148"
+ },
+ {
+  "event_id": "evt-00203",
+  "event_time": "2026-10-08T19:58:19",
+  "user_id": 52,
+  "event_type": "view",
+  "page": "/home",
+  "session_id": "sess-9512"
+ },
+ {
+  "event_id": "evt-00204",
+  "event_time": "2026-10-08T14:00:53",
+  "user_id": 185,
+  "event_type": "view",
+  "page": "/checkout",
+  "session_id": "sess-6695"
+ },
+ {
+  "event_id": "evt-00205",
+  "event_time": "2026-10-08T11:31:18",
+  "user_id": 164,
+  "event_type": "click",
+  "page": "/home",
+  "session_id": "sess-1253"
+ },
+ {
+  "event_id": "evt-00206",
+  "event_time": "2026-10-08T14:03:58",
+  "user_id": 196,
+  "event_type": "click",
+  "page": "/products",
+  "session_id": "sess-5362"
+ },
+ {
+  "event_id": "evt-00207",
+  "event_time": "2026-10-08T08:33:11",
+  "user_id": 145,
+  "event_type": "click",
+  "page": "/home",
+  "session_id": "sess-3678"
+ },
+ {
+  "event_id": "evt-00208",
+  "event_time": "2026-10-08T12:45:36",
+  "user_id": 153,
+  "event_type": "view",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-9516"
+ },
+ {
+  "event_id": "evt-00209",
+  "event_time": "2026-10-08T15:17:33",
+  "user_id": 19,
+  "event_type": "view",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-5009"
+ },
+ {
+  "event_id": "evt-00210",
+  "event_time": "2026-10-08T11:02:49",
+  "user_id": 183,
+  "event_type": "click",
+  "page": "/checkout",
+  "session_id": "sess-2002"
+ },
+ {
+  "event_id": "evt-00211",
+  "event_time": "2026-10-08T10:02:55",
+  "user_id": 28,
+  "event_type": "purchase",
+  "page": "/cart",
+  "session_id": "sess-8314"
+ },
+ {
+  "event_id": "evt-00212",
+  "event_time": "2026-10-08T17:36:01",
+  "user_id": 136,
+  "event_type": "purchase",
+  "page": "/products",
+  "session_id": "sess-1338"
+ },
+ {
+  "event_id": "evt-00213",
+  "event_time": "2026-10-08T08:23:05",
+  "user_id": 58,
+  "event_type": "purchase",
+  "page": "/products",
+  "session_id": "sess-3750"
+ },
+ {
+  "event_id": "evt-00214",
+  "event_time": "2026-10-08T03:35:19",
+  "user_id": 65,
+  "event_type": "purchase",
+  "page": "/home",
+  "session_id": "sess-1318"
+ },
+ {
+  "event_id": "evt-00215",
+  "event_time": "2026-10-08T03:22:59",
+  "user_id": 179,
+  "event_type": "purchase",
+  "page": "/products",
+  "session_id": "sess-5283"
+ },
+ {
+  "event_id": "evt-00216",
+  "event_time": "2026-10-08T00:41:53",
+  "user_id": 154,
+  "event_type": "purchase",
+  "page": "/checkout",
+  "session_id": "sess-8601"
+ },
+ {
+  "event_id": "evt-00217",
+  "event_time": "2026-10-08T17:55:15",
+  "user_id": 180,
+  "event_type": "click",
+  "page": "/home",
+  "session_id": "sess-6745"
+ },
+ {
+  "event_id": "evt-00218",
+  "event_time": "2026-10-08T03:17:45",
+  "user_id": 46,
+  "event_type": "view",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-3016"
+ },
+ {
+  "event_id": "evt-00219",
+  "event_time": "2026-10-08T15:57:31",
+  "user_id": 150,
+  "event_type": "purchase",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-2802"
+ },
+ {
+  "event_id": "evt-00220",
+  "event_time": "2026-10-08T04:14:07",
+  "user_id": 104,
+  "event_type": "view",
+  "page": "/checkout",
+  "session_id": "sess-4726"
+ },
+ {
+  "event_id": "evt-00221",
+  "event_time": "2026-10-08T07:49:09",
+  "user_id": 172,
+  "event_type": "purchase",
+  "page": "/cart",
+  "session_id": "sess-7498"
+ },
+ {
+  "event_id": "evt-00222",
+  "event_time": "2026-10-08T05:41:52",
+  "user_id": 5,
+  "event_type": "purchase",
+  "page": "/cart",
+  "session_id": "sess-7889"
+ },
+ {
+  "event_id": "evt-00223",
+  "event_time": "2026-10-08T20:27:53",
+  "user_id": 155,
+  "event_type": "purchase",
+  "page": "/home",
+  "session_id": "sess-7482"
+ },
+ {
+  "event_id": "evt-00224",
+  "event_time": "2026-10-08T01:51:49",
+  "user_id": 93,
+  "event_type": "click",
+  "page": "/cart",
+  "session_id": "sess-4938"
+ },
+ {
+  "event_id": "evt-00225",
+  "event_time": "2026-10-08T11:31:45",
+  "user_id": 112,
+  "event_type": "purchase",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-7563"
+ },
+ {
+  "event_id": "evt-00226",
+  "event_time": "2026-10-08T19:14:03",
+  "user_id": 84,
+  "event_type": "purchase",
+  "page": "/products",
+  "session_id": "sess-6790"
+ },
+ {
+  "event_id": "evt-00227",
+  "event_time": "2026-10-08T08:35:55",
+  "user_id": 109,
+  "event_type": "purchase",
+  "page": "/deals",
+  "session_id": "sess-1189"
+ },
+ {
+  "event_id": "evt-00228",
+  "event_time": "2026-10-08T12:31:06",
+  "user_id": 136,
+  "event_type": "view",
+  "page": "/home",
+  "session_id": "sess-6314"
+ },
+ {
+  "event_id": "evt-00229",
+  "event_time": "2026-10-08T14:51:12",
+  "user_id": 130,
+  "event_type": "purchase",
+  "page": "/home",
+  "session_id": "sess-4694"
+ },
+ {
+  "event_id": "evt-00230",
+  "event_time": "2026-10-08T04:50:26",
+  "user_id": 102,
+  "event_type": "click",
+  "page": "/deals",
+  "session_id": "sess-1766"
+ },
+ {
+  "event_id": "evt-00231",
+  "event_time": "2026-10-08T01:27:02",
+  "user_id": 165,
+  "event_type": "purchase",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-5479"
+ },
+ {
+  "event_id": "evt-00232",
+  "event_time": "2026-10-08T21:31:34",
+  "user_id": 10,
+  "event_type": "purchase",
+  "page": "/home",
+  "session_id": "sess-5105"
+ },
+ {
+  "event_id": "evt-00233",
+  "event_time": "2026-10-08T04:14:33",
+  "user_id": 4,
+  "event_type": "click",
+  "page": "/products",
+  "session_id": "sess-1645"
+ },
+ {
+  "event_id": "evt-00234",
+  "event_time": "2026-10-08T09:53:07",
+  "user_id": 79,
+  "event_type": "click",
+  "page": "/deals",
+  "session_id": "sess-3735"
+ },
+ {
+  "event_id": "evt-00235",
+  "event_time": "2026-10-08T04:11:03",
+  "user_id": 153,
+  "event_type": "purchase",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-2384"
+ },
+ {
+  "event_id": "evt-00236",
+  "event_time": "2026-10-08T16:00:37",
+  "user_id": 137,
+  "event_type": "view",
+  "page": "/cart",
+  "session_id": "sess-3030"
+ },
+ {
+  "event_id": "evt-00237",
+  "event_time": "2026-10-08T17:32:08",
+  "user_id": 76,
+  "event_type": "click",
+  "page": "/checkout",
+  "session_id": "sess-5723"
+ },
+ {
+  "event_id": "evt-00238",
+  "event_time": "2026-10-08T09:26:15",
+  "user_id": 189,
+  "event_type": "view",
+  "page": "/deals",
+  "session_id": "sess-9950"
+ },
+ {
+  "event_id": "evt-00239",
+  "event_time": "2026-10-08T09:53:53",
+  "user_id": 117,
+  "event_type": "purchase",
+  "page": "/deals",
+  "session_id": "sess-4630"
+ },
+ {
+  "event_id": "evt-00240",
+  "event_time": "2026-10-08T22:16:24",
+  "user_id": 52,
+  "event_type": "purchase",
+  "page": "/deals",
+  "session_id": "sess-7009"
+ },
+ {
+  "event_id": "evt-00241",
+  "event_time": "2026-10-08T15:48:57",
+  "user_id": 141,
+  "event_type": "click",
+  "page": "/checkout",
+  "session_id": "sess-8829"
+ },
+ {
+  "event_id": "evt-00242",
+  "event_time": "2026-10-08T16:05:52",
+  "user_id": 80,
+  "event_type": "view",
+  "page": "/products",
+  "session_id": "sess-6466"
+ },
+ {
+  "event_id": "evt-00243",
+  "event_time": "2026-10-08T07:38:12",
+  "user_id": 132,
+  "event_type": "purchase",
+  "page": "/cart",
+  "session_id": "sess-7495"
+ },
+ {
+  "event_id": "evt-00244",
+  "event_time": "2026-10-08T00:29:59",
+  "user_id": 91,
+  "event_type": "view",
+  "page": "/products",
+  "session_id": "sess-6307"
+ },
+ {
+  "event_id": "evt-00245",
+  "event_time": "2026-10-08T19:05:20",
+  "user_id": 126,
+  "event_type": "click",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-4541"
+ },
+ {
+  "event_id": "evt-00246",
+  "event_time": "2026-10-08T10:10:03",
+  "user_id": 198,
+  "event_type": "view",
+  "page": "/products",
+  "session_id": "sess-2094"
+ },
+ {
+  "event_id": "evt-00247",
+  "event_time": "2026-10-08T20:45:55",
+  "user_id": 90,
+  "event_type": "click",
+  "page": "/deals",
+  "session_id": "sess-2016"
+ },
+ {
+  "event_id": "evt-00248",
+  "event_time": "2026-10-08T17:43:24",
+  "user_id": 113,
+  "event_type": "click",
+  "page": "/deals",
+  "session_id": "sess-2789"
+ },
+ {
+  "event_id": "evt-00249",
+  "event_time": "2026-10-08T17:51:14",
+  "user_id": 174,
+  "event_type": "purchase",
+  "page": "/products",
+  "session_id": "sess-7828"
+ },
+ {
+  "event_id": "evt-00250",
+  "event_time": "2026-10-08T11:35:42",
+  "user_id": 91,
+  "event_type": "view",
+  "page": "/deals",
+  "session_id": "sess-4317"
+ },
+ {
+  "event_id": "evt-00251",
+  "event_time": "2026-10-08T21:07:39",
+  "user_id": 71,
+  "event_type": "purchase",
+  "page": "/home",
+  "session_id": "sess-8786"
+ },
+ {
+  "event_id": "evt-00252",
+  "event_time": "2026-10-08T09:15:50",
+  "user_id": 162,
+  "event_type": "purchase",
+  "page": "/deals",
+  "session_id": "sess-3085"
+ },
+ {
+  "event_id": "evt-00253",
+  "event_time": "2026-10-08T14:10:55",
+  "user_id": 27,
+  "event_type": "view",
+  "page": "/cart",
+  "session_id": "sess-2924"
+ },
+ {
+  "event_id": "evt-00254",
+  "event_time": "2026-10-08T17:04:25",
+  "user_id": 147,
+  "event_type": "view",
+  "page": "/cart",
+  "session_id": "sess-5576"
+ },
+ {
+  "event_id": "evt-00255",
+  "event_time": "2026-10-08T21:17:38",
+  "user_id": 29,
+  "event_type": "click",
+  "page": "/cart",
+  "session_id": "sess-8502"
+ },
+ {
+  "event_id": "evt-00256",
+  "event_time": "2026-10-08T09:54:46",
+  "user_id": 91,
+  "event_type": "click",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-7400"
+ },
+ {
+  "event_id": "evt-00257",
+  "event_time": "2026-10-08T18:02:35",
+  "user_id": 153,
+  "event_type": "click",
+  "page": "/deals",
+  "session_id": "sess-6275"
+ },
+ {
+  "event_id": "evt-00258",
+  "event_time": "2026-10-08T00:18:50",
+  "user_id": 191,
+  "event_type": "click",
+  "page": "/cart",
+  "session_id": "sess-8275"
+ },
+ {
+  "event_id": "evt-00259",
+  "event_time": "2026-10-08T10:19:11",
+  "user_id": 138,
+  "event_type": "click",
+  "page": "/products",
+  "session_id": "sess-8137"
+ },
+ {
+  "event_id": "evt-00260",
+  "event_time": "2026-10-08T19:43:24",
+  "user_id": 149,
+  "event_type": "view",
+  "page": "/home",
+  "session_id": "sess-6408"
+ },
+ {
+  "event_id": "evt-00261",
+  "event_time": "2026-10-08T11:08:53",
+  "user_id": 156,
+  "event_type": "view",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-4347"
+ },
+ {
+  "event_id": "evt-00262",
+  "event_time": "2026-10-08T14:38:57",
+  "user_id": 3,
+  "event_type": "view",
+  "page": "/home",
+  "session_id": "sess-5203"
+ },
+ {
+  "event_id": "evt-00263",
+  "event_time": "2026-10-08T19:21:57",
+  "user_id": 128,
+  "event_type": "click",
+  "page": "/checkout",
+  "session_id": "sess-6118"
+ },
+ {
+  "event_id": "evt-00264",
+  "event_time": "2026-10-08T18:27:39",
+  "user_id": 112,
+  "event_type": "purchase",
+  "page": "/checkout",
+  "session_id": "sess-8046"
+ },
+ {
+  "event_id": "evt-00265",
+  "event_time": "2026-10-08T13:22:29",
+  "user_id": 92,
+  "event_type": "view",
+  "page": "/checkout",
+  "session_id": "sess-6752"
+ },
+ {
+  "event_id": "evt-00266",
+  "event_time": "2026-10-08T15:32:00",
+  "user_id": 174,
+  "event_type": "view",
+  "page": "/checkout",
+  "session_id": "sess-4756"
+ },
+ {
+  "event_id": "evt-00267",
+  "event_time": "2026-10-08T03:27:26",
+  "user_id": 96,
+  "event_type": "purchase",
+  "page": "/cart",
+  "session_id": "sess-3526"
+ },
+ {
+  "event_id": "evt-00268",
+  "event_time": "2026-10-08T06:30:26",
+  "user_id": 125,
+  "event_type": "click",
+  "page": "/cart",
+  "session_id": "sess-6624"
+ },
+ {
+  "event_id": "evt-00269",
+  "event_time": "2026-10-08T18:10:47",
+  "user_id": 24,
+  "event_type": "view",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-6211"
+ },
+ {
+  "event_id": "evt-00270",
+  "event_time": "2026-10-08T12:35:04",
+  "user_id": 80,
+  "event_type": "purchase",
+  "page": "/products",
+  "session_id": "sess-2810"
+ },
+ {
+  "event_id": "evt-00271",
+  "event_time": "2026-10-08T22:28:57",
+  "user_id": 76,
+  "event_type": "purchase",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-9337"
+ },
+ {
+  "event_id": "evt-00272",
+  "event_time": "2026-10-08T14:26:40",
+  "user_id": 41,
+  "event_type": "purchase",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-9382"
+ },
+ {
+  "event_id": "evt-00273",
+  "event_time": "2026-10-08T07:10:32",
+  "user_id": 49,
+  "event_type": "click",
+  "page": "/products",
+  "session_id": "sess-1985"
+ },
+ {
+  "event_id": "evt-00274",
+  "event_time": "2026-10-08T21:35:36",
+  "user_id": 155,
+  "event_type": "view",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-1693"
+ },
+ {
+  "event_id": "evt-00275",
+  "event_time": "2026-10-08T14:07:00",
+  "user_id": 1,
+  "event_type": "click",
+  "page": "/deals",
+  "session_id": "sess-1064"
+ },
+ {
+  "event_id": "evt-00276",
+  "event_time": "2026-10-08T10:28:25",
+  "user_id": 26,
+  "event_type": "purchase",
+  "page": "/home",
+  "session_id": "sess-1483"
+ },
+ {
+  "event_id": "evt-00277",
+  "event_time": "2026-10-08T06:47:11",
+  "user_id": 128,
+  "event_type": "purchase",
+  "page": "/checkout",
+  "session_id": "sess-5358"
+ },
+ {
+  "event_id": "evt-00278",
+  "event_time": "2026-10-08T22:09:57",
+  "user_id": 137,
+  "event_type": "purchase",
+  "page": "/products",
+  "session_id": "sess-4252"
+ },
+ {
+  "event_id": "evt-00279",
+  "event_time": "2026-10-08T14:06:38",
+  "user_id": 32,
+  "event_type": "view",
+  "page": "/products",
+  "session_id": "sess-9493"
+ },
+ {
+  "event_id": "evt-00280",
+  "event_time": "2026-10-08T17:28:06",
+  "user_id": 8,
+  "event_type": "view",
+  "page": "/home",
+  "session_id": "sess-3794"
+ },
+ {
+  "event_id": "evt-00281",
+  "event_time": "2026-10-08T17:55:31",
+  "user_id": 120,
+  "event_type": "purchase",
+  "page": "/cart",
+  "session_id": "sess-2017"
+ },
+ {
+  "event_id": "evt-00282",
+  "event_time": "2026-10-08T22:16:00",
+  "user_id": 176,
+  "event_type": "purchase",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-3358"
+ },
+ {
+  "event_id": "evt-00283",
+  "event_time": "2026-10-08T08:12:22",
+  "user_id": 71,
+  "event_type": "view",
+  "page": "/home",
+  "session_id": "sess-5368"
+ },
+ {
+  "event_id": "evt-00284",
+  "event_time": "2026-10-08T21:32:06",
+  "user_id": 150,
+  "event_type": "view",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-4140"
+ },
+ {
+  "event_id": "evt-00285",
+  "event_time": "2026-10-08T15:26:39",
+  "user_id": 99,
+  "event_type": "view",
+  "page": "/home",
+  "session_id": "sess-4605"
+ },
+ {
+  "event_id": "evt-00286",
+  "event_time": "2026-10-08T13:35:37",
+  "user_id": 196,
+  "event_type": "view",
+  "page": "/cart",
+  "session_id": "sess-1894"
+ },
+ {
+  "event_id": "evt-00287",
+  "event_time": "2026-10-08T21:15:15",
+  "user_id": 64,
+  "event_type": "view",
+  "page": "/home",
+  "session_id": "sess-3611"
+ },
+ {
+  "event_id": "evt-00288",
+  "event_time": "2026-10-08T20:07:54",
+  "user_id": 45,
+  "event_type": "click",
+  "page": "/home",
+  "session_id": "sess-8461"
+ },
+ {
+  "event_id": "evt-00289",
+  "event_time": "2026-10-08T10:26:26",
+  "user_id": 155,
+  "event_type": "click",
+  "page": "/cart",
+  "session_id": "sess-2106"
+ },
+ {
+  "event_id": "evt-00290",
+  "event_time": "2026-10-08T08:22:43",
+  "user_id": 100,
+  "event_type": "purchase",
+  "page": "/deals",
+  "session_id": "sess-4627"
+ },
+ {
+  "event_id": "evt-00291",
+  "event_time": "2026-10-08T14:11:19",
+  "user_id": 103,
+  "event_type": "purchase",
+  "page": "/cart",
+  "session_id": "sess-1367"
+ },
+ {
+  "event_id": "evt-00292",
+  "event_time": "2026-10-08T08:23:05",
+  "user_id": 45,
+  "event_type": "view",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-7209"
+ },
+ {
+  "event_id": "evt-00293",
+  "event_time": "2026-10-08T06:27:00",
+  "user_id": 75,
+  "event_type": "click",
+  "page": "/checkout",
+  "session_id": "sess-6946"
+ },
+ {
+  "event_id": "evt-00294",
+  "event_time": "2026-10-08T04:00:21",
+  "user_id": 137,
+  "event_type": "click",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-7605"
+ },
+ {
+  "event_id": "evt-00295",
+  "event_time": "2026-10-08T22:18:04",
+  "user_id": 32,
+  "event_type": "click",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-5013"
+ },
+ {
+  "event_id": "evt-00296",
+  "event_time": "2026-10-08T13:18:12",
+  "user_id": 120,
+  "event_type": "click",
+  "page": "/products/laptop-pro-14",
+  "session_id": "sess-4885"
+ },
+ {
+  "event_id": "evt-00297",
+  "event_time": "2026-10-08T14:57:02",
+  "user_id": 72,
+  "event_type": "purchase",
+  "page": "/home",
+  "session_id": "sess-6593"
+ },
+ {
+  "event_id": "evt-00298",
+  "event_time": "2026-10-08T05:24:15",
+  "user_id": 181,
+  "event_type": "view",
+  "page": "/home",
+  "session_id": "sess-4216"
+ },
+ {
+  "event_id": "evt-00299",
+  "event_time": "2026-10-08T09:17:34",
+  "user_id": 33,
+  "event_type": "purchase",
+  "page": "/cart",
+  "session_id": "sess-8652"
+ },
+ {
+  "event_id": "evt-00300",
+  "event_time": "2026-10-08T08:16:10",
+  "user_id": 95,
+  "event_type": "click",
+  "page": "/products",
+  "session_id": "sess-7638"
+ }
+]

@@ -1,0 +1,38 @@
+# Pipeline 1: daily sales CSV, append load partitioned by sale date.
+# Run: python engine.py configs/sales_daily_csv.yaml
+pipeline: sales_daily
+description: Daily sales CSV append load partitioned by sale date
+
+source:
+  path:
+    - data/sales_2026_10_07.csv
+    - data/sales_2026_10_08.csv
+  format: csv
+
+schema:
+  - {name: orderId, type: int, required: true}
+  - {name: customer_id, type: int, required: true}
+  - {name: sale_date, type: date, required: true}
+  - {name: product, type: str, required: true}
+  - {name: category, type: str, required: true}
+  - {name: region, type: str, required: true}
+  - {name: quantity, type: int, required: true}
+  - {name: unitPrice, type: float, required: true}
+
+validations:
+  - {column: quantity, rule: gte, value: 1}
+  - {column: unitPrice, rule: gt, value: 0}
+  - {column: region, rule: in, value: [North, South, East, West]}
+
+transforms:
+  - {op: rename, from: orderId, to: order_id}
+  - {op: rename, from: unitPrice, to: unit_price}
+  - {op: derive, column: total, formula: quantity * unit_price}
+
+dedup:
+  keys: [order_id]
+
+destination:
+  table: sales_daily
+  mode: append
+  partition_by: sale_date
